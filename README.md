@@ -24,7 +24,7 @@ Before running the system, ensure you have the following installed on your machi
 
 1. Clone the repository:
 
-   git clone https://github.com/your-username/car-rental-system.git
+   git clone [https://github.com/your-username/car-rental-system.git](https://github.com/EfratIfergan/CarRental.git)
 
 2. Navigate to the project directory:
 
