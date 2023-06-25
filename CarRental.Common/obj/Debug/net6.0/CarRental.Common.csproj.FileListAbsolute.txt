@@ -1,0 +1,12 @@
+C:\Users\efrat_ef\Documents\Car Rental\CarRental.Common\bin\Debug\net6.0\CarRental.Common.deps.json
+C:\Users\efrat_ef\Documents\Car Rental\CarRental.Common\bin\Debug\net6.0\CarRental.Common.dll
+C:\Users\efrat_ef\Documents\Car Rental\CarRental.Common\bin\Debug\net6.0\CarRental.Common.pdb
+C:\Users\efrat_ef\Documents\Car Rental\CarRental.Common\obj\Debug\net6.0\CarRental.Common.csproj.AssemblyReference.cache
+C:\Users\efrat_ef\Documents\Car Rental\CarRental.Common\obj\Debug\net6.0\CarRental.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\efrat_ef\Documents\Car Rental\CarRental.Common\obj\Debug\net6.0\CarRental.Common.AssemblyInfoInputs.cache
+C:\Users\efrat_ef\Documents\Car Rental\CarRental.Common\obj\Debug\net6.0\CarRental.Common.AssemblyInfo.cs
+C:\Users\efrat_ef\Documents\Car Rental\CarRental.Common\obj\Debug\net6.0\CarRental.Common.csproj.CoreCompileInputs.cache
+C:\Users\efrat_ef\Documents\Car Rental\CarRental.Common\obj\Debug\net6.0\CarRental.Common.dll
+C:\Users\efrat_ef\Documents\Car Rental\CarRental.Common\obj\Debug\net6.0\refint\CarRental.Common.dll
+C:\Users\efrat_ef\Documents\Car Rental\CarRental.Common\obj\Debug\net6.0\CarRental.Common.pdb
+C:\Users\efrat_ef\Documents\Car Rental\CarRental.Common\obj\Debug\net6.0\ref\CarRental.Common.dll

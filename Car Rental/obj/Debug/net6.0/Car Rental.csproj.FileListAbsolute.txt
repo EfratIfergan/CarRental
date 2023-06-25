@@ -1,0 +1,32 @@
+C:\Users\efrat_ef\Documents\Car Rental\Car Rental\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\efrat_ef\Documents\Car Rental\Car Rental\bin\Debug\net6.0\appsettings.json
+C:\Users\efrat_ef\Documents\Car Rental\Car Rental\bin\Debug\net6.0\Car Rental.exe
+C:\Users\efrat_ef\Documents\Car Rental\Car Rental\bin\Debug\net6.0\Car Rental.deps.json
+C:\Users\efrat_ef\Documents\Car Rental\Car Rental\bin\Debug\net6.0\Car Rental.runtimeconfig.json
+C:\Users\efrat_ef\Documents\Car Rental\Car Rental\bin\Debug\net6.0\Car Rental.dll
+C:\Users\efrat_ef\Documents\Car Rental\Car Rental\bin\Debug\net6.0\Car Rental.pdb
+C:\Users\efrat_ef\Documents\Car Rental\Car Rental\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\efrat_ef\Documents\Car Rental\Car Rental\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\efrat_ef\Documents\Car Rental\Car Rental\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\efrat_ef\Documents\Car Rental\Car Rental\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\efrat_ef\Documents\Car Rental\Car Rental\obj\Debug\net6.0\Car Rental.csproj.AssemblyReference.cache
+C:\Users\efrat_ef\Documents\Car Rental\Car Rental\obj\Debug\net6.0\Car Rental.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\efrat_ef\Documents\Car Rental\Car Rental\obj\Debug\net6.0\Car Rental.AssemblyInfoInputs.cache
+C:\Users\efrat_ef\Documents\Car Rental\Car Rental\obj\Debug\net6.0\Car Rental.AssemblyInfo.cs
+C:\Users\efrat_ef\Documents\Car Rental\Car Rental\obj\Debug\net6.0\Car Rental.csproj.CoreCompileInputs.cache
+C:\Users\efrat_ef\Documents\Car Rental\Car Rental\obj\Debug\net6.0\Car Rental.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\efrat_ef\Documents\Car Rental\Car Rental\obj\Debug\net6.0\Car Rental.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\efrat_ef\Documents\Car Rental\Car Rental\obj\Debug\net6.0\staticwebassets\msbuild.Car Rental.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\efrat_ef\Documents\Car Rental\Car Rental\obj\Debug\net6.0\staticwebassets\msbuild.build.Car Rental.props
+C:\Users\efrat_ef\Documents\Car Rental\Car Rental\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Car Rental.props
+C:\Users\efrat_ef\Documents\Car Rental\Car Rental\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Car Rental.props
+C:\Users\efrat_ef\Documents\Car Rental\Car Rental\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\efrat_ef\Documents\Car Rental\Car Rental\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\efrat_ef\Documents\Car Rental\Car Rental\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\efrat_ef\Documents\Car Rental\Car Rental\obj\Debug\net6.0\scopedcss\bundle\Car Rental.styles.css
+C:\Users\efrat_ef\Documents\Car Rental\Car Rental\obj\Debug\net6.0\Car Rental.csproj.CopyComplete
+C:\Users\efrat_ef\Documents\Car Rental\Car Rental\obj\Debug\net6.0\Car Rental.dll
+C:\Users\efrat_ef\Documents\Car Rental\Car Rental\obj\Debug\net6.0\refint\Car Rental.dll
+C:\Users\efrat_ef\Documents\Car Rental\Car Rental\obj\Debug\net6.0\Car Rental.pdb
+C:\Users\efrat_ef\Documents\Car Rental\Car Rental\obj\Debug\net6.0\Car Rental.genruntimeconfig.cache
+C:\Users\efrat_ef\Documents\Car Rental\Car Rental\obj\Debug\net6.0\ref\Car Rental.dll

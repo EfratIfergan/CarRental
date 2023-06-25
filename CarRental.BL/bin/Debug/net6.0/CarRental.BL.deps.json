@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "CarRental.BL/1.0.0": {
+        "dependencies": {
+          "CarRental.Common": "1.0.0",
+          "CarRental.DAL": "1.0.0"
+        },
+        "runtime": {
+          "CarRental.BL.dll": {}
+        }
+      },
+      "CarRental.Common/1.0.0": {
+        "runtime": {
+          "CarRental.Common.dll": {}
+        }
+      },
+      "CarRental.DAL/1.0.0": {
+        "dependencies": {
+          "CarRental.Common": "1.0.0"
+        },
+        "runtime": {
+          "CarRental.DAL.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CarRental.BL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CarRental.Common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CarRental.DAL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
